@@ -27,6 +27,10 @@ This project is a simulation of a multi-floor banking network infrastructure bui
 
 ---
 
+Here is the visual representation of the topology:
+
+---
+
 ## 🧠 IP Addressing & VLAN Plan
 
 | VLAN | Department       | Subnet               | Subnet Mask       | Usable IP Range          | Broadcast Address    |
