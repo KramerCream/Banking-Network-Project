@@ -57,6 +57,7 @@ This project is a simulation of a multi-floor banking network infrastructure bui
 - Serves as **DHCP Server** for all VLANs
 - Routes between VLANs
 - Configured with **SVIs** for each VLAN
+- Configured VTP Server
 
 ### Switches (Access Layer)
 - VLANs assigned to access ports
