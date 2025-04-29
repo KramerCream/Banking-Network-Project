@@ -28,6 +28,8 @@ This project is a simulation of a multi-floor banking network infrastructure bui
 ---
 
 Here is the visual representation of the topology:
+![Banking Network Project](https://github.com/KramerCream/Banking-Network-Project/blob/main/Banking%20Network%20Project.png)
+
 
 ---
 
